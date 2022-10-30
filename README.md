@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kamran102
 - 👀 I’m interested in Software Engineering and Software Arcitecture.
-- 🌱 I’m currently learning AWS / React / Unity.
-- 💞️ I’m looking to collaborate on React / Unity
+- 🌱 I’m currently learning Distributed Systems / Microservices / Angular / Unity.
+- 💞️ I’m looking to collaborate on Angular / Unity
 - 📫 Contact me via Github.
 
 <!---
